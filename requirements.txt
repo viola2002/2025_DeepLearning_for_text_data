@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+koreanize_matplotlib
+seaborn
+scikit-learn
+
+selenium
+webdriver_manager
+bs4
+konlpy
+gensim
+pyLDAvis
